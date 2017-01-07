@@ -1,0 +1,1 @@
+INSERT INTO `dede_admin` VALUES('1','10','dedecms51','a162c080a56d5fa759ef','dedecms51','dedecms51','dedecms51','','1433465670','127.0.0.1');

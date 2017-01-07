@@ -1,0 +1,3 @@
+INSERT INTO `dede_flink` VALUES('2','1','http://www.dedecms51.com','织梦CMS官方','','','','1226375403','1','2');
+INSERT INTO `dede_flink` VALUES('9','1','http://www.dedecms51.com/','织梦无忧论坛','','','','1227772717','1','2');
+INSERT INTO `dede_flink` VALUES('8','1','http://snvps.taobao.com','十年互联','','','','1227772703','1','2');
